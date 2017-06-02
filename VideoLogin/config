@@ -1,0 +1,13 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[user]
+	name = plumK
+	email = Crystal_Plum8@163.com
+	signingkey = 
+[remote "origin"]
+	url = https://github.com/plumK/VideoLogin.git
+	puttykeyfile = https://github.com/plumK/VideoLogin.git
